@@ -155,12 +155,13 @@ Los factores clave que impulsan el churn son: contratos cortos, baja antigüedad
 
 7. Recomendación Final
 Implementar un sistema de alertas tempranas basado en el modelo Random Forest para identificar clientes con alto riesgo de churn.
+
 Crear un equipo de retención activa que intervenga con acciones personalizadas.
+
 Monitorear el impacto de las estrategias mensualmente y ajustar basado en resultados.
+
 📈 Objetivo a 6 meses: Reducir el churn en un 20% mediante la aplicación de estas estrategias. 
 
-Elaborado por: [Tu Nombre / Equipo de Data Science]
-Agosto 2025.
 
 
 # ✅ Conclusión Final
@@ -185,3 +186,8 @@ Estos hallazgos permiten diseñar estrategias de retención focalizadas y proact
 Invertir en retención no solo mejora la satisfacción del cliente, sino que es más rentable que adquirir nuevos clientes. 
 
 Implementar un sistema basado en este modelo de predicción, acompañado de acciones personalizadas, permitirá aumentar la fidelización, mejorar la experiencia del cliente y fortalecer la sostenibilidad del negocio a largo plazo.
+
+
+
+## Elaborado por: Darianna Gallo / Equipo de Data Science]
+Agosto 2025.
